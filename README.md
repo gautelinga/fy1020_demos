@@ -7,3 +7,6 @@ Numeriske demonstrasjoner. Følgende er lagt inn:
 * Demo 4: Ball kolliderer med vegg
 * Demo 5: Støt (to kuler kolliderer (u)elasisk)
 * Demo 6: Tvungen, dempet svingning
+* Demo 7: Resonant pendel
+* Demo 8: Posisjonsdrevne svingninger
+* Demo 9: Gravitasjonssvingninger?
